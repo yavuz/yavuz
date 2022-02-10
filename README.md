@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently working on [TRUTH](https://truthistanbul.com/)
+- 📫 My [page](https://yavuz.github.io/)
 
 <!--
 **yavuz/yavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
