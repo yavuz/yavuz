@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on [TRUTH](https://truthistanbul.com/)
+- 🌱 I’m currently working on [TRUTH](https://truthnyc.com/)
 - 📫 My [page](https://yavuz.github.io/)
 
 <!--
