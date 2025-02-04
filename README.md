@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently working on [TRUTH](https://truthnyc.com/)
-- 📫 My [page](https://yavuz.github.io/)
+- 📫 My [page](https://yavuzyildirim.substack.com/)
 - ⚡ Creator of [@listlncom](https://listln.com/)
 
 ## 🛠️ Technologies & Tools
